@@ -6,6 +6,7 @@
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [Userscripts (user.js)](https://en.wikipedia.org/wiki/Userscript)
 - [afkar.lol](https://afkar.lol)
+- [foxname.top](https://foxname.top)
 - Much more! (lots my projects are a private stuff)
 
 ## Contact
