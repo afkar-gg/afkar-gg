@@ -1,19 +1,51 @@
-## What I build
+<div align="center">
 
-- <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/afkar-gg/img-storage/refs/heads/main/nodejs.png" width="18" height="18" /></a> Node.js projects
-- <a href="https://luau.org/"><img src="https://luau.org/_astro/luau-logo.DU3ngeWd.svg" width="18" height="18" /></a> Luau scripts (Executor)
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [Userscripts (user.js)](https://en.wikipedia.org/wiki/Userscript)
-- [afkar.lol](https://afkar.lol)
-- [foxname.top](https://foxname.top)
-- Much more! (lots my projects are a private stuff)
+# Hi there, I'm Afkar :D
 
-## Contact
-- <a href="https://discord.com/"><img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/66e278299a53f5bf88615e90_Symbol.svg" width="18" height="18" /></a> Discord: @afkar
+[![Profile Views](https://count.getloli.com/@afkar-gg?theme=rule34)](https://github.com/afkar-gg)
 
-## Hobby
-- <a href="https://www.roblox.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Roblox_Logo_2025.png?20250221235424" width="18" height="18" /></a> Plays Roblox a lot
+</div>
 
+---
 
-you'll probably overestimate me if you need help so don't expect much result <img src="https://media.tenor.com/dnlR-1iS3u8AAAAj/yellow-guy-dancing-yellow-guy.gif" width="18" height="18" />
+### Skills & Techs
+
+#### Proficient
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### Familiar
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### Currently Learning
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+### GitHub Stats & Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=afkar-gg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Afkar's GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afkar-gg&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=afkar-gg&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br/><br/>
+
+### Contribution Graph
+
+<img src="https://ghchart.rshah.org/7aa2f7/afkar-gg" alt="Afkar's Github Contribution Chart" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Powered by <a href="https://github.com/afkar-gg">afkar-gg</a></sub>
+</div>
